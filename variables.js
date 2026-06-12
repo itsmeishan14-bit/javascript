@@ -14,4 +14,5 @@ accountPassword="3343"
 console.log(account_id);
 console.log(account_email);
 console.log(accountPassword);
+console.log(accountState);
 console.table([accountPassword,account_email,accountCity,accountState])
