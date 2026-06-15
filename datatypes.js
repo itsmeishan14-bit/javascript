@@ -21,3 +21,4 @@ let isLoggedIn= true // boolen algebra
 
 // non-primitive
 console.log(typeof"ishan");//type of null is always object in javascript where as type of undefined is always undefined
+f
