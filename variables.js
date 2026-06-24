@@ -1,18 +1,29 @@
-const account_id = 13343
-let account_email = "itsmeishan14@gmail.com"
-var accountPassword = "12345"
-accountCity = "Kathmandu"//we can also decalare by these way also varibale
- let accountState;
-// account_id = 2
-/*
-Prefer not to use var 
-because of issue in blcok scope and functional scope
-*/
-account_email="abc@gmail.com"
-accountPassword="3343"
-// console.log(account_id);//not allowed in constant
-console.log(account_id);
-console.log(account_email);
-console.log(accountPassword);
-console.log(accountState);
-console.table([accountPassword,account_email,accountCity,accountState])
+// Variables are used to store the information 
+let  message;
+message='hello';
+alert(message);//shows the variable contenet
+ 
+
+// we can also use varibale declartation and assignment into a single line
+let name='ishan';
+alert('name');//ishan
+
+
+//we can also declare multiple varibales in one line
+
+let user = 'ishan', age = 20, message ='hi';
+
+// we can also declare two varibale and copy data from one into the other 
+
+let firstname = 'ishan';
+let secondname;
+ 
+secondname = firstname;
+
+alert(secondname);
+
+
+
+
+
+
