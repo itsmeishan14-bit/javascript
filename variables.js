@@ -21,7 +21,7 @@ let secondname;
 secondname = firstname;
 
 alert(secondname);
-
+alert("not hello")
 
 
 

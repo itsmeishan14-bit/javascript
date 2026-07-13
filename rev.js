@@ -25,3 +25,4 @@ let na="string"//these double inverted comma or the single comma detenmines whet
 // we have big int for big number of interger sometinng greather than 2^53 above I guess 
 //symbobsl undefined no value
 let a='ishan';
+let 
